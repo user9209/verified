@@ -1,7 +1,7 @@
 
 
 | Domain  | IMAP-Server | IMAP-Port & Encryption | SMTP-Server | SMTP-Port & Encryption | Web-URL | by | last update |
-| ------------- | ------------- |------------- |------------- |------------- |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |
 | Vodafone  | imap.vodafonemail.de | 993 SSL / 143 TLS | smtp.vodafonemail.de | 465 SSL / 587 TLS | https://live.vodafone.de/login | vodafone.de  | 06/2023 |
 | Arcor (=Vodafone)  | imap.vodafonemail.de | 993 SSL / 143 TLS | smtp.vodafonemail.de | 465 SSL / 587 TLS| https://live.vodafone.de/login | vodafone.de  | 06/2023 |
 | Unity-Media (=Vodafone) | imap.vodafonemail.de | 993 SSL / 143 TLS | smtp.vodafonemail.de | 465 SSL / 587 TLS| https://live.vodafone.de/login | vodafone.de  | 06/2023 |
