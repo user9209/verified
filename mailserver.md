@@ -1,4 +1,4 @@
-
+When using K9-Mail on Android, you may like to use this tool on the computer: [K9ConfigurationGenerator](https://github.com/user9209/K9ConfigurationGenerator/releases).
 
 | Domain  | IMAP-Server | IMAP-Port & Encryption | SMTP-Server | SMTP-Port & Encryption | Web-URL | by | last update |
 | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |
